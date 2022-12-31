@@ -1,3 +1,6 @@
+### Hi there 👋
+## I'm Azis.
+
 # 💫 About Me:
 Perkenalkan nama saya Azis Nur Fajar, saya biasa dipanggil azis, saat ini saya sedang kuliah disalah satu universitas di Yogyakarta yaitu Universitas Teknologi Digital Indonesia Program Studi Teknologi Komputer. pada semester 5 ini saya telah menyelesaikan program studi independent di mitra PT. Dicoding Indonesia, pada studi independent ini membuat web pada tampilan atau frontend dengan menggunakan pemrograman html, javascript, java dan php. pada beberapa program yang pernah saya pelajari, saya biasa menggunakan program php untuk backend dan javascript untuk frontend.
 
