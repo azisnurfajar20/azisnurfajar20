@@ -2,9 +2,9 @@
 # I'm Azis Nur Fajar.
 
 ## 💫 About Me:
-My name is Azis Nur Fajar, I am still studying at the Indonesian Digital Technology University majoring in Computer Technology. I am currently 20 years old and live in Yogyakarta. While in college, I was active in various activities on campus, including participating in departmental association organizations, student activity units, gaining soft skills or hard skills there, because not only discussing organizations, but developing myself in public speaking, and conducting class studies at the organization.
+My name is Azis Nur Fajar. I am majoring in computer technology at the University of Digital Technology, Indonesia. I am 20 years old and currently live in Yogyakarta. In college, I developed my ability to speak in public as well as discuss organizations, and because I did class research on organizations, I was able to participate in professional associations, student activity units, and acquire soft or hard skills there, on campus. actively participated in various activities.
 
-Currently I am a participant in the SIB program at PT. Dicoding Indonesia who studied as a frontend developer using the Javascript Framework. I have software development skills using the Java programming language, Javascript, PHP, Css. before me as a FrontEnd Developer, I became a BackEnd Developer at CV. MyPangandaran, I used to use the Smarty Framework with the PHP programming language, apart from that I improved my skills through various projects using the Laravel Framework. Thus I convey this introduction, with the match of my skills and experience, I hope it will be a big consideration to be accepted as an apprentice to improve my skills.
+I am currently in his SIB program at PT. Dicoding Indonesia studied to become a front-end developer using a Javascript framework. I have knowledge of software development using the programming languages Java, Javascript, PHP, and CSS. Before working as a front-end developer, CV became a back-end developer. In MyPangandaran previously I am used PHP programming language I am used Smarty framework, otherwise I am improved his skills through various projects using Laravel framework. In giving this introduction, I hope that being accepted as an apprentice to improve my skills will be a major consideration as my skills and experience match.
 
 
 ## 🌐 Connect With Me :
